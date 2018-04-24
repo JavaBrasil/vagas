@@ -2,7 +2,7 @@
 
 Espaço para a divulgação de vagas para desenvolvedores Java, utilizando via issues do GitHub.
 
-Vagas disponíveis no link: https://github.com/androiddevbr/vagas/issues
+Vagas disponíveis no link: https://github.com/JavaBrasil/vagas/issues
 
 ### Cadastrando uma vaga
 
